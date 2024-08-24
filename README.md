@@ -1,2 +1,2 @@
 # riot-session-switcher
-League session switcher using directory symlinks
+Bash League session switcher using directory symlinks
